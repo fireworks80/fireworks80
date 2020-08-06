@@ -1,8 +1,10 @@
 ### Hi there - [website] 👋
 
-## I'm a UI Developer!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Becoming a front-end developer
+## UI Developer!
+- 🌱 한 아이의 아빠 🤣
+- 💢 내가 할 수 있는건 내가 한다.
+- 💟 협업을 좋아해요.
+- 🥅 2020년 목표: 프론트엔드 개발자가 되는것
 <!-- 
 ### Connect with me:
 
@@ -62,6 +64,19 @@
 <!-- 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 -->
+
+### My Study
+- [리액트를 다루는 기술](https://github.com/fireworks80/react--technique-book)
+- [React - axios](https://github.com/fireworks80/study-react-axion)
+- [React - router](https://github.com/fireworks80/react-router)
+- [Vue](https://github.com/fireworks80/study/tree/master/study-vue)
+- [Vue - vuex](https://github.com/fireworks80/vue-cli-todo-vuex)
+- [webpack](https://github.com/fireworks80/webpack-setting)
+- [Microinteraction](https://github.com/fireworks80/css-javascript-animation)
+
+### Side project
+- [Newsletter generator](https://github.com/fireworks80/newsletter)
+- [playstation 제품 리스트 페이지 클론](https://github.com/fireworks80/playstation-vue-cli)
 
 
 [website]: https://fireworks80.github.io
