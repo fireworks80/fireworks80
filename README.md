@@ -1,4 +1,4 @@
-### Hi there - [website][resume] 👋
+### Hi there - [website] [resume] 👋
 
 ## UI Developer!
 - 🌱 한 아이의 아빠 🤣
