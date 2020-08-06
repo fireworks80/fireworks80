@@ -4,6 +4,7 @@
 - 🌱 한 아이의 아빠 🤣
 - 💢 내가 할 수 있는건 내가 한다.
 - 💟 협업을 좋아해요.
+- 🤔 생각하고 배우고-
 - 🥅 2020년 목표: 프론트엔드 개발자가 되는것
 <!-- 
 ### Connect with me:
@@ -16,7 +17,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -65,7 +66,7 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 -->
 
-### My Study
+### My Study 📚
 - [리액트를 다루는 기술](https://github.com/fireworks80/react--technique-book)
 - [React - axios](https://github.com/fireworks80/study-react-axion)
 - [React - router](https://github.com/fireworks80/react-router)
@@ -74,7 +75,7 @@
 - [webpack](https://github.com/fireworks80/webpack-setting)
 - [Microinteraction](https://github.com/fireworks80/css-javascript-animation)
 
-### Side project
+### Side project 📽
 - [Newsletter generator](https://github.com/fireworks80/newsletter)
 - [playstation 제품 리스트 페이지 클론](https://github.com/fireworks80/playstation-vue-cli)
 
