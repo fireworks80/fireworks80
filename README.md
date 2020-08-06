@@ -1,4 +1,4 @@
-### Hi there - [website] 👋
+### Hi there - [website][resume] 👋
 
 ## UI Developer!
 - 🌱 한 아이의 아빠 🤣
@@ -79,7 +79,10 @@
 - [playstation 제품 리스트 페이지 클론](https://github.com/fireworks80/playstation-vue-cli)
 
 
+
+
 [website]: https://fireworks80.github.io
+[resume]: https://fireworks80.github.io/resume/
 
 <!--
 [twitter]: https://twitter.com/codeSTACKr
