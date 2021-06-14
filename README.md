@@ -67,7 +67,7 @@
 -->
 
 ### My Study 📚
-- [자바스크립트 딥 다이브](https://github.com/fireworks80/study-mordern-js-deep-dive)
+- [자바스크립트 딥 다이브](https://github.com/fireworks80/study-modern-js-deep-dive)
 - [리액트를 다루는 기술](https://github.com/fireworks80/react--technique-book)
 - [React - axios](https://github.com/fireworks80/study-react-axion)
 - [React - router](https://github.com/fireworks80/react-router)
