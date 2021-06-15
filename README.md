@@ -1,4 +1,4 @@
-### Hi there - [website](https://fireworks80.github.io) [resume](https://fireworks80.github.io/resume/) 👋
+### Hi there - [website](https://fireworks80.github.io), [resume](https://fireworks80.github.io/resume/) 👋
 
 ## UI Developer!
 
@@ -87,7 +87,7 @@
 
 - [Newsletter generator](https://github.com/fireworks80/newsletter)
 - [playstation 제품 리스트 페이지 클론](https://github.com/fireworks80/playstation-vue-cli)
-- [website]: https://fireworks80.github.io
+
 
 
 <!--
