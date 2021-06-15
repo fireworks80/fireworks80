@@ -1,12 +1,14 @@
 ### Hi there - [website] [resume] 👋
 
 ## UI Developer!
+
 - 🌱 한 아이의 아빠 🤣
 - 💢 내가 할 수 있는건 내가 한다.
 - 💟 협업을 좋아해요.
 - 🤔 생각하고 배우고-
 - 🥅 2020년 목표: 프론트엔드 개발자가 되는것
-<!-- 
+<!--
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -39,10 +41,9 @@
 <br />
 <br />
 
-
 <!--
 ### 📺 Latest YouTube Videos
- YOUTUBE:START 
+ YOUTUBE:START
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 - [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
 - [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
@@ -50,10 +51,9 @@
 - [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
  YOUTUBE:END -->
 
-
 <!--
 ### 📕 Latest Blog Posts
- BLOG-POST-LIST:START 
+ BLOG-POST-LIST:START
 - [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
 - [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
@@ -61,12 +61,12 @@
 - [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
  BLOG-POST-LIST:END -->
 
-
-<!-- 
+<!--
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 -->
 
 ### My Study 📚
+
 - [자바스크립트 딥 다이브](https://github.com/fireworks80/study-modern-js-deep-dive)
 - [inflearn node](https://github.com/fireworks80/inflearn-node)
 - [리액트를 다루는 기술](https://github.com/fireworks80/react--technique-book)
@@ -77,16 +77,21 @@
 - [webpack](https://github.com/fireworks80/webpack-setting)
 - [Microinteraction](https://github.com/fireworks80/css-javascript-animation)
 
-### 
+### Project 🎫
+
+- community platform: [[git]](https://github.com/fireworks80/prj-communiti-prototype) [[site]](http://devitda.osci.kr:3000/)
+
+- product site: [[site]](https://www.play-ce.io/)
 
 ### Side project 📽
+
 - [Newsletter generator](https://github.com/fireworks80/newsletter)
 - [playstation 제품 리스트 페이지 클론](https://github.com/fireworks80/playstation-vue-cli)
 - [website]: https://fireworks80.github.io
 
-### 이력서 
-- [resume]: https://fireworks80.github.io/resume/
+### 이력서
 
+- [resume]: https://fireworks80.github.io/resume/
 
 <!--
 [twitter]: https://twitter.com/codeSTACKr
