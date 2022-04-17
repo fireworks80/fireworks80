@@ -6,7 +6,8 @@
 - 💢 내가 할 수 있는건 내가 한다.
 - 💟 협업을 좋아해요.
 - 🤔 생각하고 배우고-
-- 🥅 목표: 웹개발자 되기
+- 🥅 목표: 개발자 되기
+- 🧭 관심사: typescript, swiftUI, three.js
 <!--
 
 ### Connect with me:
@@ -76,6 +77,8 @@
 - [Vue - vuex](https://github.com/fireworks80/vue-cli-todo-vuex)
 - [webpack](https://github.com/fireworks80/webpack-setting)
 - [Microinteraction](https://github.com/fireworks80/css-javascript-animation)
+- [typescript](https://github.com/fireworks80/udemy-typescript)
+- [threejs](https://github.com/fireworks80/inflearn-threejs)
 
 ### Project 🎫
 
