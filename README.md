@@ -3,11 +3,11 @@
 ## UI Developer!
 
 - 🌱 한 아이의 아빠 🤣
-- 💢 내가 할 수 있는건 내가 한다.
+- 💢 업무의 한계를 두지 말자
 - 💟 협업을 좋아해요.
 - 🤔 생각하고 배우고-
 - 🥅 목표: 개발자 되기
-- 🧭 관심사: typescript, swiftUI, three.js
+- 🧭 관심사: B.E.M, scss, swiftUI, three.js
 <!--
 
 ### Connect with me:
